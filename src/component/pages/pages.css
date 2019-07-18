@@ -1,0 +1,11 @@
+.active {
+    color: "red";
+}
+
+.tagsIcon {
+    font-size: 36px;
+}
+
+.tagsIcon+span {
+    font-size: 36px;
+}

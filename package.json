@@ -1,13 +1,16 @@
 {
   "name": "no4",
   "version": "0.1.0",
-  "homepage": "https://jenifers001d.github.io/testReact",
+  "homepage": "./",
   "private": true,
   "dependencies": {
+    "@material/react-material-icon": "^0.14.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "styled-components": "^4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
